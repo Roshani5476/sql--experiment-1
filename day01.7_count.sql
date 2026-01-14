@@ -4,7 +4,7 @@
 SELECT COUNT(*) FROM demo;
 
 --COUNT with condition
-SELECT COUNT(*) FROM demO WHERE name LIKE '%sql%'
+SELECT COUNT(*) FROM demo WHERE name LIKE '%sql%'
 
 --COUNT(column) ignores NULL values 
 SELECT COUNT(name) FROM demo
