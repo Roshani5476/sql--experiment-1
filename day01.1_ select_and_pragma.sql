@@ -15,3 +15,5 @@ PRAGMA table_info(demo);
 ---notnull: shows whether null values are allowed ( 0 = NULL allowed, 1 = NULL not allowed)
 ---dflt_value: shows the default value (NULL = no default set)
 ---pk: shows whether the column is primary key. (1= Primary key, 0 = not primary key)
+
+--I learned how to view data using SELECT, how to fetch specific columns, and how to check table structure using PRAGMA.
