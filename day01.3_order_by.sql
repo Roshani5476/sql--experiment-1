@@ -1,4 +1,4 @@
---WHY: I learned ORDER BY  so that I can control the order of rows 
+--WHY: I learned ORDER BY so that I can control the order of rows 
 
 --ORDER BY is used to sort rows
 
