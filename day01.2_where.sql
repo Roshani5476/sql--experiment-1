@@ -1,7 +1,8 @@
---Why: I learned WHERE so that I can filter rows and see only required data
+--Why: I learned WHERE clause to filter rows and see only the required data
 
---WHERE filters rows, not columns
+--The WHERE clause filters rows, not columns.
 
+--This query shows only the rows where the ID is equal to three
 --Example: filter by number
 SELECT *FROM demo WHERE ID = 3;
 
